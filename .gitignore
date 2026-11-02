@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# Jupyter Checkpoints & Virtual Docs
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
